@@ -4,8 +4,7 @@ See [setup instructions](https://codefellows.github.io/setup-guide/code-301/3-co
 
 ## Repository Quick Tour and Usage
 
-### 301 Code Challenges
-
 ### 401 Data Structures, Code Challenges
+![Class 02]()
 
 
