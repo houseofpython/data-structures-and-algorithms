@@ -2,7 +2,7 @@
 Write a function called insertShiftArray which takes in an array and a value to be added. Without utilizing any of the built-in methods available to your language, return an array with the new value added at the middle ind
 
 ## Whiteboard Process
-[Untitled.pdf](https://github.com/houseofjavascript/data-structures-and-algorithms/files/11035868/Untitled.pdf)
+![Whiteboard Picture](https://github.com/houseofjavascript/data-structures-and-algorithms/files/11035868/Untitled.pdf)
 
 ## Approach & Efficiency
  I took a very simple approach to divide the list and insert the paremeter by shifting every range in the list? 
