@@ -2,7 +2,8 @@
 Write a function called BinarySearch which takes in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index of the array’s element that is equal to the value of the search key, or -1 if the element is not in the array.
 
 ## Whiteboard Process
-![Whiteboard Picture](https://github.com/houseofjavascript/data-structures-and-algorithms/files/11035868/Untitled.pdf)
+![Whiteboard Picture](https://github.com/houseofjavascript/data-structures-and-algorithms/blob/09c9e5e73ae6d64e0a2a18e1ca4005aa7da898a7/Class%2003%20Code%20Challenge.pdf)
+
 
 ## Approach & Efficiency
 
