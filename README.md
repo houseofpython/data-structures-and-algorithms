@@ -5,8 +5,8 @@ See [setup instructions](https://codefellows.github.io/setup-guide/code-301/3-co
 ## Repository Quick Tour and Usage
 
 ### 401 Data Structures, Code Challenges
-![Class 01]()
-![Class 02]()
-![Class 03]()
+[Class 01]()
+[Class 02]()
+[Class 03]()
 
 
