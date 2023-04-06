@@ -12,7 +12,7 @@ Curly Brackets : {}
 
 
 ## Whiteboard Process
-![Whiteboard Picture](https://github.com/houseofpython/data-structures-and-algorithms/files/11035868/Untitled.pdf)
+![Whiteboard Picture](Stack_queue_brackets.pdf)
 
 ## Approach & Efficiency
 
