@@ -12,7 +12,7 @@ Curly Brackets : {}
 
 
 ## Whiteboard Process
-![Whiteboard Picture](https://github.com/houseofjavascript/data-structures-and-algorithms/files/11035868/Untitled.pdf)
+![Whiteboard Picture](https://github.com/houseofpython/data-structures-and-algorithms/files/11035868/Untitled.pdf)
 
 ## Approach & Efficiency
 
