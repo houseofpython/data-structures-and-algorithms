@@ -1,5 +1,7 @@
 # Breadth-First-Search
-Write a function called BinarySearch which takes in 2 parameters: a sorted array and the search key. Without utilizing any of the built-in methods available to your language, return the index of the array’s element that is equal to the value of the search key, or -1 if the element is not in the array.
+Write a function called breadth first
+Arguments: tree
+Return: list of all values in the tree, in the order they were encountered
 
 ## Whiteboard Process
 ![Whiteboard Picture](https://github.com/houseofpython/data-structures-and-algorithms/blob/12b65956ed0d32a28f8a5b64dd896e0fba01c184/CC%2017.jpg)
@@ -12,3 +14,5 @@ Traverse through a tree using a queue to return the values in a breadth-first se
 ## Solution
 
 Refer to whiteboard
+
+[code](https://github.com/houseofpython/data-structures-and-algorithms/blob/40e1c84792fa412a15c885be631d1269238fcd9d/python/data_structures/breadth_first.py)
