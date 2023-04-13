@@ -15,4 +15,4 @@ Traverse through a tree using a queue to return the values in a breadth-first se
 
 Refer to whiteboard
 
-[code](https://github.com/houseofpython/data-structures-and-algorithms/blob/40e1c84792fa412a15c885be631d1269238fcd9d/python/data_structures/breadth_first.py)
+![code](https://github.com/houseofpython/data-structures-and-algorithms/blob/40e1c84792fa412a15c885be631d1269238fcd9d/python/data_structures/breadth_first.py)
