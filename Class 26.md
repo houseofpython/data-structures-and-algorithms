@@ -31,14 +31,14 @@ def insertion_sort(arr):
 ```
 #Summary 
 
--Insertion sort is a sorting algorithm that builds the final sorted array one item at a time.
--It starts by assuming that the first element of the array is already sorted.
--For each subsequent element, it inserts it into the correct position in the sorted part of the array.
--To do this, it compares the current element to the ones before it and shifts them over if they are greater.
--Once it finds the correct position for the current element, it inserts it there and moves on to the next element.
--Insertion sort has a worst-case time complexity of O(n^2), making it inefficient for large arrays.
--However, it has a best-case time complexity of O(n), which makes it a good choice for small arrays or arrays that are already partially sorted.
--Insertion sort is an in-place sorting algorithm, meaning it sorts the array in place without requiring additional memory.
+- Insertion sort is a sorting algorithm that builds the final sorted array one item at a time.
+- It starts by assuming that the first element of the array is already sorted.
+- For each subsequent element, it inserts it into the correct position in the sorted part of the array.
+- To do this, it compares the current element to the ones before it and shifts them over if they are greater.
+- Once it finds the correct position for the current element, it inserts it there and moves on to the next element.
+- Insertion sort has a worst-case time complexity of O(n^2), making it inefficient for large arrays.
+- However, it has a best-case time complexity of O(n), which makes it a good choice for small arrays or arrays that are already partially sorted.
+- Insertion sort is an in-place sorting algorithm, meaning it sorts the array in place without requiring additional memory.
 
 # If we wanted to test this implementation we could use the following :
 ```
