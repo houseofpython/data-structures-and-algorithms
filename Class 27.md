@@ -51,7 +51,7 @@ ALGORITHM Merge(left, right, arr)
 
 # Now lets look at a sample visual to break this down even further :
 
-![]()
+![](https://github.com/houseofpython/data-structures-and-algorithms/blob/1dd9adbcf9e0f7c21b403a2634331e306ec6674d/Merge-Sort-Algorithm.png)
 
 # How this code outs in Python : 
 
