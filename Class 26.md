@@ -8,7 +8,7 @@ Insertion sort is a simple sorting algorithm that works by repeatedly iterating 
 
 In the image beloe we can visually represent how the insertion sort works. We start by comparing the second and first element in an array or list by looking for the lower value and then shifting. In the images the yellow will represent the value that will be compared. This value will turn green when the the value next to it is no longer greater . 
 
--[]()
+-[](https://github.com/houseofpython/data-structures-and-algorithms/blob/5acb614c4ec8f30d0dd003cb593c2616ace0f1a9/cc-26.jpg)
 
 #Code for how this process works 
 
