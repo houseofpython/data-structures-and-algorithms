@@ -29,3 +29,14 @@ def insertion_sort(arr):
     # return the sorted array
     return arr
 ```
+# If we wanted to test this implementation we could use the following :
+```
+import unittest
+
+class TestInsertionSort(unittest.TestCase):
+    def test_sort(self):
+        arr = [8, 4, 23, 42, 16, 15]
+        expected = [4, 8, 15, 16, 23, 42]
+        result = insertion_sort(arr)
+        self.assertEqual(result, expected)
+```
