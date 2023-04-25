@@ -29,7 +29,7 @@ def insertion_sort(arr):
     # return the sorted array
     return arr
 ```
-#Summary 
+# Summary 
 
 - Insertion sort is a sorting algorithm that builds the final sorted array one item at a time.
 - It starts by assuming that the first element of the array is already sorted.
