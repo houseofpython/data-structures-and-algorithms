@@ -94,12 +94,14 @@ def merge(left_half, right_half):
     return result
 
 ```
-# Example Input 
+# Try It Yourself 
 
 [8,4,23,42,16,15], using our visual and code can you figure out what this returns ?
 
+```
 input_array = [8, 4, 23, 42, 16, 15]
 print("Input Array:", input_array)
+```
 
 # Summary 
 
