@@ -94,8 +94,26 @@ def merge(left_half, right_half):
     return result
 
 ```
+# Example Input 
 
+[8,4,23,42,16,15], using our visual and code can you figure out what this returns ?
+
+input_array = [8, 4, 23, 42, 16, 15]
+print("Input Array:", input_array)
 
 # Summary 
 
 In this conversation, we discussed how merge sort works in Python. Merge sort is a popular sorting algorithm that uses a divide-and-conquer approach to sort a list or an array of elements. It works by dividing the input list into smaller halves, sorting each half recursively, and then merging the sorted halves back together. We looked at the steps involved in implementing the merge sort algorithm in Python and added comments to each line of code to explain what it does. Overall, we learned how to use merge sort to sort a list in Python and gained a better understanding of how the algorithm works
+
+
+```
+sorted_array = merge_sort(input_array)
+print("Sorted Array:", sorted_array)
+```
+
+# Returned Example 
+
+```
+Input Array: [8, 4, 23, 42, 16, 15]
+Sorted Array: [4, 8, 15, 16, 23, 42]
+```
