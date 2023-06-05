@@ -51,5 +51,5 @@ BIG O On for space
 
 ## Solution
 
-[]()
-        return False
+[Stack and Queue implementation](https://github.com/houseofpython/data-structures-and-algorithms/blob/main/python/code_challenges/stack-and-queue.py)
+    
