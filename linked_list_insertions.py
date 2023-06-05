@@ -37,5 +37,38 @@ class LinkedList:
 
 
     def insert_before(self, value, new_value):
+    
+        if self.head is None:
+            return
+
+        if self.head.value == value:
+            new_node = Node(new_value)
+            new_node.next = self.head
+            self.head = new_node
+            return
+
+        current = self.head
+        while current.next is not None:
+            if current.next.value == value:
+                new_node = Node(new_value)
+                new_node.next = current.next
+                current.next = new_node
+                return
+            current = current.next
 
     def insert_after(self, value, new_value):
+        current = self.head
+        while current is not None:
+            if current.value == value:
+                new_node = Node(new_value)
+                new_node.next = current.next
+                current.next = new_node
+                return
+            current = current.next
+            
+            
+            
+            
+            
+            
+      
