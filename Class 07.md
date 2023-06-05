@@ -12,7 +12,7 @@ Update the “Table of Contents” - in the README at the root of the repository
 
 ## Whiteboard Process
 
-![whiteboard](https://github.com/houseofpython/data-structures-and-algorithms/blob/94520e4472eed75bbf6a8cd91782eb46130686ad/linked-list-insertions.jpg)
+![whiteboard](https://github.com/houseofpython/data-structures-and-algorithms/blob/0bd99a05747858edc1b800801f28e52795f50a23/linked-list-kth.jpg)
 
 ## Approach & Efficiency
 
@@ -22,4 +22,4 @@ Big o(1) for space because we use a constant amount of extra spaces
 
 ## Solution
 
-[Linked List Insertions](https://github.com/houseofpython/data-structures-and-algorithms/blob/linked-list-insertions/python/code_challenges/ll-insertions.py)
+[Linked List KTH]()
