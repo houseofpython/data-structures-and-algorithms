@@ -22,4 +22,4 @@ Big o(1) for space because we use a constant amount of extra spaces
 
 ## Solution
 
-[Linked List KTH]()
+[Linked List KTH](https://github.com/houseofpython/data-structures-and-algorithms/blob/main/linked_list_kth.py)
