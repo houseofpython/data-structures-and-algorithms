@@ -19,4 +19,4 @@ Big o(n) because we are creating the new list for once of each instance
 
 ## Solution
 
-[Linked List zip]()
+[Linked List zip](https://github.com/houseofpython/data-structures-and-algorithms/blob/main/linked_list_zip.py)
