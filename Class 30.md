@@ -16,6 +16,10 @@ n/a no whiteboard needed
 Big O 1n for time
 BIG O On for space
 
+# Time
+
+This took an hour and a half 
+
 
 ## Solution
 
