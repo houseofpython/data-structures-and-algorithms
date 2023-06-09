@@ -10,7 +10,7 @@ Arguments: string
 Return: string
 
 ## Whiteboard Process
-![Whiteboard Picture](cc-31 (1).jpg)
+![Whiteboard Picture](https://github.com/houseofpython/data-structures-and-algorithms/blob/4a8e3f0c328a8054cf0c3db30382554384176845/cc-31%20(1).jpg)
 
 ## Approach & Efficiency
 
