@@ -1,5 +1,5 @@
 import pytest
-from first_repeated_word import first_repeated_word
+from hashtable_repeated_word import first_repeated_word
 
 @pytest.fixture
 def hash_table():
