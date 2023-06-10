@@ -1,5 +1,5 @@
 import pytest
-from graph import Graph
+from graph_depth_first import Graph
 
 @pytest.fixture
 def graph():
