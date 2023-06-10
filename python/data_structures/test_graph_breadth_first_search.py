@@ -1,5 +1,5 @@
 import pytest
-import Graph from graph_breadth_first
+from graph_breadth_first import Graph
 
 
 graph = Graph()
